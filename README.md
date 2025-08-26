@@ -34,7 +34,7 @@ QuantumEd is an AI-driven interactive educational platform that analyzes your ph
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/quantumed.git
+git clone [https://github.com/YOUR_USERNAME/quantumed.git](https://github.com/Mr-Prashanth/QuantumEd.git)
 cd quantumed
 
 ### 2. Install Node.js Dependencies
